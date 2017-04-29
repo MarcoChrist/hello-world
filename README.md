@@ -1,2 +1,4 @@
 # hello-world
-just a repository
+
+
+just Git Gud that´s all
